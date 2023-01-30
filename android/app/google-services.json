@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "147671152741",
+    "project_id": "shopky-3f92a",
+    "storage_bucket": "shopky-3f92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147671152741:android:0eb244b34d5d3c44696e8c",
+        "android_client_info": {
+          "package_name": "com.example.shopky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147671152741-9otadpncd27r0c0bgn014ov85ostena6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopky",
+            "certificate_hash": "0631491bd378f958fcb1c41b6e3f279c9dd82ec6"
+          }
+        },
+        {
+          "client_id": "147671152741-7gdpt5sfv2lq8lq2er6tcm2flohommn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-U7NYPFc7ONAH6awkC8H_HNAQumqZxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147671152741-7gdpt5sfv2lq8lq2er6tcm2flohommn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
